@@ -1,0 +1,104 @@
+
+.orderdlist{
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    margin: 10px;
+
+} 
+.contact a{
+  border: 2px solid;
+           padding: 20px 60px; 
+           margin: 30px 60px;
+           font-size: 30px;
+           background-color: blue;
+           color: white;
+           border-radius: 10px;
+           text-decoration: none;
+           cursor: pointer;
+}
+.official a{
+  border: 2px solid;
+           padding: 20px 30px; 
+           margin: 30px 30px;
+           font-size: 15px;
+           background-color: rgb(46, 43, 149);
+           color: white;
+           border-radius: 10px;
+           text-decoration: none;
+           cursor: pointer;
+}
+
+.aboutsai{
+  font-family: cursive;
+  font-size: 15px;
+  padding: 10px 10px; 
+  border: 4px solid;
+  border-radius: 10px;
+  border-color: white;
+  margin: 20px 20px;
+}
+address{
+   background-color: rgb(56, 45, 45);
+}
+address a{
+    text-decoration:none;
+    color: white;
+    padding: 20px; 
+    margin-left: 30px;
+    font-size: 20px;
+}   
+h1{
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    
+}
+p{
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    margin: 10px;
+    font-family: Times New Roman;
+}
+.sai{
+  background-color: #fff;
+}
+body {
+    background-color: rgb(181, 176, 207);
+    margin: 0px;
+}
+.profile img {
+  border-radius: 50%;
+}
+
+.topnav {
+  background-color: #dddddd;
+    overflow: hidden;
+    margin: o;
+    padding: 0;
+
+}
+
+.topnav a {
+    float: left;
+    display: inline;
+    padding: 14px 25px;
+    
+    text-decoration: none;
+    text-align: center;
+    
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.books img{
+  padding:50px ;
+  margin: 15px;
+}
+
+/*========================== Create a right-aligned (split) link inside the navigation bar================== */
+
+
